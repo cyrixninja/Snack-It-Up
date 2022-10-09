@@ -1,0 +1,7 @@
+cohere
+flask
+werkzeug
+gevent
+gunicorn
+requests
+youtube-search-python
