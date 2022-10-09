@@ -14,3 +14,6 @@ It was tough to get values from JSON and display it on the website it flask but 
 That we made something useful and it works the way we envisioned it to be
 ## What we learned
 We learned a lot about using Flask, Cohere's NLP API, and Spoonacular's API.
+## Here's the video link of the same :-
+https://youtu.be/MRz4sqiOuDQ
+
