@@ -7,7 +7,7 @@ This project has three main features/pages:
 3. Chat with Healbee- When it comes to snacks, they need to be healthy. So Meet Healbee, she's a bit obsessed with healthy and nutritious food. She is made to promote healthy and nutritious food among the people. Sometimes she can be obsessed with wanting to make you eat healthy food 😁
 
 ## How we built it
-We built the main website using HTML, CSS, and Javascript. We made the HealBee Chatbot, Find a Random Recipe, and Find a Recipe by Ingredients using Flask, Cohere's NLP API, and Spoonacular's API.
+We built the main website using HTML, CSS, and Javascript. We made the HealBee Chatbot, Find a Random Recipe, and then find a Recipe by Ingredients using Flask, Cohere's NLP API, and Spoonacular's API.
 ## Challenges we ran into
 It was tough to get values from JSON and display it on the website it flask but we finally achieved it the way we wanted.
 ## Accomplishments that we're proud of
